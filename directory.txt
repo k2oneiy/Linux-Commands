@@ -1,0 +1,6 @@
+pwd - print working directory
+ls - list directory
+cd .. - back directory
+rmdir - remove directory
+rm - remove file
+cd ~ - Go to home directory
